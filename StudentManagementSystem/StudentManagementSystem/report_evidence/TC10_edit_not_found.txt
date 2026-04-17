@@ -1,0 +1,19 @@
+﻿==============================================
+   STUDENT MANAGEMENT AND RANKING SYSTEM
+==============================================
+Enter the maximum number of students to manage: 
+1. Add student
+2. Show ranking table
+3. Search student by ID
+4. Edit student
+5. Delete student
+6. Exit
+Choose an option (1-6): Enter student ID to edit: Enter new name: Enter new score (0-10): Error: Student ID was not found.
+
+1. Add student
+2. Show ranking table
+3. Search student by ID
+4. Edit student
+5. Delete student
+6. Exit
+Choose an option (1-6): Program closed.

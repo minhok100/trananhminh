@@ -1,0 +1,8 @@
+﻿Benchmark results for Student Management and Ranking System
+Average time is measured in milliseconds.
+
+n,add_one_student_ms,show_ranking_heap_ms,show_ranking_arraylist_sort_ms,search_by_id_ms
+10,0.0914,0.0500,0.0849,0.0802
+100,0.5544,0.8467,0.7200,0.5304
+500,1.2260,1.1497,0.6389,1.0412
+1000,2.1068,1.9971,0.7831,2.0194
